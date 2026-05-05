@@ -7,7 +7,10 @@
 ## Demonstration Video
 Voici le fonctionnement de l'application (Toast et Incrementaison) :
 
-![Demonstration HelloToast](video.mp4)
+<video width="100%" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
+
 
 ---
 
