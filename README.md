@@ -7,7 +7,7 @@
 ## Demonstration Video
 Voici le fonctionnement de l'application (Toast et Incrementaison) :
 
-![Demonstration HelloToast](./img-lab1-dev/video/demo.mp4)
+![Demonstration HelloToast](video.mp4)
 
 ---
 
