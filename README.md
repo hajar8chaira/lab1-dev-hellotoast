@@ -7,8 +7,8 @@
 ## Demonstration Video
 Voici le fonctionnement de l'application (Toast et Incrementaison) :
 
-<video src="https://github.com/hajar8chaira/lab1-dev-hellotoast/raw/main/video.mp4" controls="controls" style="max-width: 100%;">
-</video>
+[<video src="https://github.com/hajar8chaira/lab1-dev-hellotoast/raw/main/video.mp4" controls="controls" style="max-width: 100%;">
+</video>](https://github.com/user-attachments/assets/13d98033-017f-46d7-885e-59c933767d1a)
 
 ---
 
