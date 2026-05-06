@@ -98,4 +98,4 @@ A la fin de ce lab, nous avons appris a :
 *   Utiliser les Toasts pour communiquer avec l'utilisateur.
 
 ---
-**Developpe par Hajar Chaira - 2026**
+
